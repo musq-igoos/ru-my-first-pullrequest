@@ -1,0 +1,2 @@
+I lerned a lot of new thiggs 
+but "git add -i" must die, interface creator needs to be arrested.
